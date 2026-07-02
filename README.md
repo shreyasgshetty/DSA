@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shreyasgshetty/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/shreyasgshetty/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyasgshetty/DSA/tree/master/0242-valid-anagram) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyasgshetty/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shreyasgshetty/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/shreyasgshetty/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyasgshetty/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyasgshetty/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyasgshetty/DSA/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyasgshetty/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
