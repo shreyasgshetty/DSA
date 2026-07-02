@@ -1,68 +1,33 @@
 import java.util.*;
 
 class Solution {
-    public int myAtoi(String s) {
 
-        StringBuilder ans = new StringBuilder();
-        boolean started = false;
+    static int helper(String s, int i, long num, int sign){
+        if(i>= s.length() || !Character.isDigit(s.charAt(i))){
+            return (int) (sign*num) ;
+        } 
 
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            if (!started && ch == ' ') {
-                continue;
-            }
+        num = num * 10 + (s.charAt(i) - '0');
 
-            // Sign
-            if (!started && (ch == '+' || ch == '-')) {
-                ans.append(ch);
-                started = true;
-                continue;
-            }
+        if(sign*num <= Integer.MIN_VALUE) return Integer.MIN_VALUE;
+        if(sign*num >= Integer.MAX_VALUE) return Integer.MAX_VALUE;
 
-            // Digit
-            if (Character.isDigit(ch)) {
-                ans.append(ch);
-                started = true;
-            } else {
-                break;
-            }
-        }
+        return helper(s, i + 1, num, sign);
 
-        String a = ans.toString();
-
-        // No valid number
-        if (a.isEmpty() || a.equals("+") || a.equals("-")) {
-            return 0;
-        }
-
-        // Remove leading zeros after optional sign
-        int sign = 0;
-        if (a.charAt(0) == '+' || a.charAt(0) == '-') {
-            sign = 1;
-        }
-
-        while (sign < a.length() - 1 && a.charAt(sign) == '0') {
-            a = a.substring(0, sign) + a.substring(sign + 1);
-        }
-
-        try {
-            long num = Long.parseLong(a);
-
-            if (num > Integer.MAX_VALUE) {
-                return Integer.MAX_VALUE;
-            }
-
-            if (num < Integer.MIN_VALUE) {
-                return Integer.MIN_VALUE;
-            }
-
-            return (int) num;
-
-        } catch (NumberFormatException e) {
-            if (a.charAt(0) == '-') {
-                return Integer.MIN_VALUE;
-            }
-            return Integer.MAX_VALUE;
-        }
     }
-}
+    public int myAtoi(String s) {
+        int i = 0;
+
+        while(i < s.length() && s.charAt(i) == ' '){
+            i++;
+        }
+
+        int sign = 1;
+        if (i < s.length() && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
+            sign = (s.charAt(i) == '-') ? -1 : 1;
+            i++;
+        }
+        return helper(s, i, 0, sign);
+    }
+        
+    }
