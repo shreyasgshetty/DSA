@@ -4,25 +4,24 @@ class Solution {
     public int beautySum(String s) {
         int n = s.length();
         int sum = 0;
+        char[] arr = s.toCharArray();
+
         for (int i = 0; i < n; i++) {
-            Map<Character, Integer> freq = new HashMap<>();
-
+            int[] freq = new int[26];
             for (int j = i; j < n; j++) {
-                freq.put(s.charAt(j), freq.getOrDefault(s.charAt(j), 0) + 1);
-
-                int maxi = Integer.MIN_VALUE;
-                int mini = Integer.MAX_VALUE;
-
-                for (int val : freq.values()) {
-                    mini = Math.min(mini, val);
-                    maxi = Math.max(maxi, val);
-                }
-                sum += (maxi - mini);
+                freq[arr[j] - 'a']++;
+                int max = 0;
+                int min = Integer.MAX_VALUE;
+            for (int k = 0; k < 26; k++) {
+                if (freq[k] > 0) {
+                max = Math.max(max, freq[k]);
+                min = Math.min(min, freq[k]);
             }
         }
+        sum += max - min;
+    }
+}
 
         return sum;
-
-
     }
 }
