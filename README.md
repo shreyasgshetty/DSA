@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shreyasgshetty/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyasgshetty/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/shreyasgshetty/DSA/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/shreyasgshetty/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shreyasgshetty/DSA/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shreyasgshetty/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
