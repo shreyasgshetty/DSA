@@ -21,9 +21,8 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
             }
-        ListNode n = slow.next;
+        prev.next = prev.next.next;
         slow.next = null;
-        prev.next = n;
 
         return head;
     }
