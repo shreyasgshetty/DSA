@@ -11,17 +11,22 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        HashMap<ListNode, Integer> mp = new HashMap<>();
-        ListNode temp = head;
-
-        while(temp!=null){
-            if(mp.containsKey(temp)){
-                return temp;
+        ListNode fast = head;
+        ListNode slow = head;
+        
+        while(fast!=null && fast.next!=null){
+        slow = slow.next;
+        fast = fast.next.next;
+        if(slow == fast){
+            slow = head;
+            while(slow!=fast){
+                slow = slow.next;
+                fast = fast.next;
             }
-            mp.put(temp,1);
-            temp = temp.next;
+            return slow;
         }
-        return null;
         
     }
+    return null;
+}
 }
