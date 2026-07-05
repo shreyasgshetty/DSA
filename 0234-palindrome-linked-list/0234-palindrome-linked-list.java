@@ -11,30 +11,22 @@
 class Solution {
     public boolean isPalindrome(ListNode head) {
         ListNode temp = head;
-        int count = 0;
+        
+        Stack<Integer> st = new Stack<>();
+
         while(temp!=null){
-            count++;
+            st.push(temp.val);
             temp = temp.next;
         }
-
-        int arr[] = new int[count];
 
         temp = head;
 
-        for(int i = 0; i < arr.length;i++){
-            arr[i] = temp.val;
-            temp = temp.next;
-        }
-
-        int j = 0;
-        int k = arr.length - 1;
-
-        while(j <= k){
-            if(arr[j]!=arr[k]){
+        while(temp!=null){
+            int num = st.pop();
+            if(num!=temp.val){
                 return false;
             }
-            j++;
-            k--;
+            temp = temp.next;
         }
         return true;
 
