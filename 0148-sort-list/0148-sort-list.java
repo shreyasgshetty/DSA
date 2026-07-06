@@ -52,10 +52,11 @@ class Solution {
                 temp = temp.next;
                 right = right.next;
             }
-            if(left!=null){
+        }
+        if(left!=null){
                 temp.next = left;
             } else temp.next = right;
-        }
+            
         return dummy.next;
     }
 }
