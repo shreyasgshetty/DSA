@@ -31,7 +31,6 @@ class Solution {
             copyNode.random = mp.get(temp.random);
             temp = temp.next;
         }
-        Node newHead = mp.get(head);
-        return newHead;
+        return mp.get(head);
     }
 }
