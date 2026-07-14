@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyasgshetty/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/shreyasgshetty/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyasgshetty/DSA/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyasgshetty/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shreyasgshetty/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasgshetty/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shreyasgshetty/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyasgshetty/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shreyasgshetty/DSA/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/shreyasgshetty/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/shreyasgshetty/DSA/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shreyasgshetty/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasgshetty/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
