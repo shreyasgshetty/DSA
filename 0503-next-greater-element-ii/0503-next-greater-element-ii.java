@@ -2,15 +2,16 @@ class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int n = nums.length;
         int ans[] = new int[n];
-        for(int i = 0; i<n;i++){
-            ans[i] = -1;
-            for(int j = i+1; j<i+n;j++){
-                int ind = j%n;
-                if(nums[ind] > nums[i]){
-                    ans[i] = nums[ind];
-                    break;
-                }
+        Deque<Integer> st = new ArrayDeque<>();
+        for(int i = 2*n-1; i>=0;i--){
+            while(!st.isEmpty() && st.peek()<=nums[i%n]){
+                st.pop();
             }
+            if(i<n){
+                ans[i] = st.isEmpty()?-1:st.peek();
+            }
+            st.push(nums[i%n]);
+            
         }
         return ans;
     }
