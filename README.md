@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/shreyasgshetty/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shreyasgshetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shreyasgshetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyasgshetty/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shreyasgshetty/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/shreyasgshetty/DSA/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shreyasgshetty/DSA/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shreyasgshetty/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
