@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyasgshetty/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shreyasgshetty/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shreyasgshetty/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shreyasgshetty/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shreyasgshetty/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyasgshetty/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyasgshetty/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/shreyasgshetty/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shreyasgshetty/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shreyasgshetty/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyasgshetty/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreyasgshetty/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shreyasgshetty/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shreyasgshetty/DSA/tree/master/0042-trapping-rain-water) |
 ## Counting
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shreyasgshetty/DSA/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/shreyasgshetty/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyasgshetty/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/shreyasgshetty/DSA/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/shreyasgshetty/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shreyasgshetty/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shreyasgshetty/DSA/tree/master/0090-subsets-ii) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shreyasgshetty/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyasgshetty/DSA/tree/master/0503-next-greater-element-ii) |
 ## Trie
