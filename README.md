@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shreyasgshetty/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shreyasgshetty/DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/shreyasgshetty/DSA/tree/master/1922-count-good-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shreyasgshetty/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shreyasgshetty/DSA/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shreyasgshetty/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
 | ------- |
