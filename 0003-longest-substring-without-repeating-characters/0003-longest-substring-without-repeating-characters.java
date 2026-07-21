@@ -1,19 +1,22 @@
+import java.util.Arrays;
+
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int max = 0;
         int l = 0;
         int r = 0;
 
-        HashMap<Character,Integer> hm = new HashMap<>();
+        int arr[] = new int[256];
+        Arrays.fill(arr,-1);
         while(r<s.length()){
-            if(hm.containsKey(s.charAt(r))){
-                if(hm.get(s.charAt(r)) >= l){
-                    l = hm.get(s.charAt(r)) + 1;
+            if(arr[s.charAt(r)]!=-1){
+                if(arr[s.charAt(r)] >= l){
+                    l = arr[s.charAt(r)] + 1;
                 }
             }
             int len = r - l + 1;
             max = Math.max(len,max);
-            hm.put(s.charAt(r),r);
+            arr[s.charAt(r)] = r;
             r++;
         }
         
