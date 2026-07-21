@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyasgshetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/shreyasgshetty/DSA/tree/master/0735-asteroid-collision) |
+| [1004-max-consecutive-ones-iii](https://github.com/shreyasgshetty/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/shreyasgshetty/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyasgshetty/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/shreyasgshetty/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyasgshetty/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/shreyasgshetty/DSA/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/shreyasgshetty/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shreyasgshetty/DSA/tree/master/0901-online-stock-span) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/shreyasgshetty/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
