@@ -1,23 +1,31 @@
 class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
-        return helper(nums,k) - helper(nums,k-1);
+        return atMostK(nums, k) - atMostK(nums, k - 1);
     }
-    public int helper(int[] nums, int k){
-        int count = 0;
-        int l = 0;
-        HashMap<Integer,Integer> hm = new HashMap<>();
 
-        for(int r = 0; r < nums.length; r++){
-            hm.put(nums[r],hm.getOrDefault(nums[r],0)+1);
-            while(hm.size()>k){
-                hm.put(nums[l],hm.get(nums[l])-1);
-                if(hm.get(nums[l])==0){
-                    hm.remove(nums[l]);
-                }
-                l++;
+    private int atMostK(int[] nums, int K) {
+        int[] freq = new int[nums.length + 1];
+        int left = 0, count = 0;
+
+        for (int right = 0; right < nums.length; right++) {
+            // New distinct element entering the window
+            if (freq[nums[right]] == 0) {
+                K--;
             }
-            count+=r-l+1;
+            freq[nums[right]]++;
+
+            while (K < 0) {
+                freq[nums[left]]--;
+                // Element completely left the window
+                if (freq[nums[left]] == 0) {
+                    K++;
+                }
+                left++;
+            }
+
+            count += (right - left + 1);
         }
+
         return count;
     }
 }
