@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shreyasgshetty/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyasgshetty/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/shreyasgshetty/DSA/tree/master/0621-task-scheduler) |
 | [0930-binary-subarrays-with-sum](https://github.com/shreyasgshetty/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyasgshetty/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyasgshetty/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/shreyasgshetty/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/shreyasgshetty/DSA/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/shreyasgshetty/DSA/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/shreyasgshetty/DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyasgshetty/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyasgshetty/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Linked List
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shreyasgshetty/DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyasgshetty/DSA/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/shreyasgshetty/DSA/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/shreyasgshetty/DSA/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/shreyasgshetty/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyasgshetty/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/shreyasgshetty/DSA/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/shreyasgshetty/DSA/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shreyasgshetty/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/shreyasgshetty/DSA/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/shreyasgshetty/DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
