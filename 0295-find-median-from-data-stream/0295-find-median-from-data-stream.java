@@ -7,9 +7,16 @@ class MedianFinder {
     }
     
     public void addNum(int num) {
-        small.offer(num);
-        large.offer(small.poll());
-        if(large.size()>small.size()){
+
+        if (small.isEmpty() || num <= small.peek()) {
+            small.offer(num);
+        } else {
+            large.offer(num);
+        }
+
+        if (small.size() > large.size() + 1) {
+            large.offer(small.poll());
+        } else if (large.size() > small.size()) {
             small.offer(large.poll());
         }
     }
