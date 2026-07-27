@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shreyasgshetty/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shreyasgshetty/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shreyasgshetty/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/shreyasgshetty/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreyasgshetty/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shreyasgshetty/DSA/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/shreyasgshetty/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shreyasgshetty/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyasgshetty/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/shreyasgshetty/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/shreyasgshetty/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreyasgshetty/DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/shreyasgshetty/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shreyasgshetty/DSA/tree/master/0079-word-search) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shreyasgshetty/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreyasgshetty/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/shreyasgshetty/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/shreyasgshetty/DSA/tree/master/0455-assign-cookies) |
