@@ -15,15 +15,22 @@
  */
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
+        ArrayDeque<TreeNode> st1 = new ArrayDeque<>();
+        ArrayDeque<TreeNode> st2 = new ArrayDeque<>();
         List<Integer> ans = new ArrayList<>();
-        postorder(root,ans);
-        return ans;
-    }
-    private void postorder(TreeNode root, List<Integer> ans){
-        if(root==null) return;
+        if(root==null) return ans;
+        TreeNode node = root;
+        st1.push(node);
+        while(!st1.isEmpty()){
+            node = st1.pop();
+            st2.push(node);
+            if(node.left!=null) st1.push(node.left);
+            if(node.right!=null) st1.push(node.right);
 
-        postorder(root.left,ans);
-        postorder(root.right,ans);
-        ans.add(root.val);
+        }
+        while(!st2.isEmpty()){
+            ans.add(st2.pop().val);
+        }
+        return ans;
     }
 }
