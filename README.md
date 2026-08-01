@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shreyasgshetty/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/shreyasgshetty/DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/shreyasgshetty/DSA/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyasgshetty/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyasgshetty/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/shreyasgshetty/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shreyasgshetty/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyasgshetty/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyasgshetty/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyasgshetty/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyasgshetty/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreyasgshetty/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/shreyasgshetty/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyasgshetty/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/shreyasgshetty/DSA/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyasgshetty/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/shreyasgshetty/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Trie
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyasgshetty/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasgshetty/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyasgshetty/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyasgshetty/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyasgshetty/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasgshetty/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyasgshetty/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyasgshetty/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shreyasgshetty/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyasgshetty/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bucket Sort
 |  |
 | ------- |
