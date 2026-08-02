@@ -15,15 +15,27 @@
  */
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        ArrayDeque<TreeNode> st = new ArrayDeque<>();
         List<Integer> ans = new ArrayList<Integer>();
-        if(root==null) return ans;
-        st.push(root);
-        while(!st.isEmpty()){
-            TreeNode node = st.pop();
-            if(node.right!=null) st.push(node.right);
-            if(node.left!=null) st.push(node.left);
-            ans.add(node.val);
+        TreeNode curr = root;
+        while(curr!=null){
+            if(curr.left==null){
+                ans.add(curr.val);
+                curr = curr.right; // if right also null, it moves to the node temporarily attached to the right of curr (thread)
+            } else{
+                TreeNode prev = curr.left;
+                while(prev.right!=null && prev.right!=curr){
+                    prev = prev.right;
+                }
+                if(prev.right == null){
+                    prev.right=curr;
+                    ans.add(curr.val);
+                    curr = curr.left;
+                } else{
+                    prev.right = null;
+                    curr = curr.right;
+                }
+            }
+
         }
         return ans;
     }
