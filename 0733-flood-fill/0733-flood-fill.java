@@ -1,38 +1,23 @@
-class Pair{
-    int row;
-    int col;
-
-    Pair(int row, int col){
-        this.row = row;
-        this.col = col;
-    }
-}
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        if(image[sr][sc]==color) return image;
         int initialcolor = image[sr][sc];
-        int n = image.length;
-        int m = image[0].length;
-        Queue<Pair> queue = new LinkedList<>(); 
-        queue.offer(new Pair(sr,sc));
+        int[][] ans = image;
         int[] drow = {1,0,-1,0};
         int[] dcol = {0,-1,0,1};
-        
-        while(!queue.isEmpty()){
-            int r = queue.peek().row;
-            int c = queue.peek().col;
-            image[r][c] = color;
-            queue.poll();
-            for(int i = 0; i < 4; i++){
-                int nrow = r + drow[i];
-                int ncol = c + dcol[i];
+        dfs(image,ans,sr,sc,dcol,drow,color,initialcolor);
+        return ans;
+    }
 
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && image[nrow][ncol]==initialcolor){
-                    queue.offer(new Pair(nrow,ncol));
-                }
+    public void dfs(int[][] image,int[][] ans, int row, int col,int[] dcol, int[] drow, int color, int initialcolor){
+        ans[row][col] = color;
+        int n = image.length;
+        int m = image[0].length;
+        for(int i = 0; i < 4; i++){
+            int nrow = row + drow[i];
+            int ncol = col + dcol[i];
+            if(nrow>=0 && ncol>=0 && nrow<n && ncol<m && ans[nrow][ncol]!=color && image[nrow][ncol]==initialcolor){
+                dfs(image,ans,nrow,ncol,dcol,drow,color,initialcolor);
             }
         }
-
-    return image;
     }
 }
