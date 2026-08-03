@@ -1,23 +1,11 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-
-        for(int i = 0; i < isConnected.length; i++){
-            adj.add(new ArrayList<>());
-        }
-        for(int i = 0; i < isConnected.length;i++){
-            for(int j = 0; j < isConnected[0].length;j++){
-                if(isConnected[i][j]==1 && i!=j){
-                    adj.get(i).add(j);
-                }
-            }
-        }
-
+        
+        int n = isConnected.length;
         boolean visited[] = new boolean[isConnected.length];
-
         int provinces = 0;
 
-        for(int i = 0; i < isConnected.length;i++){
+        for(int i = 0; i < n;i++){
             if(!visited[i]){
                 provinces++;
 
@@ -28,10 +16,10 @@ class Solution {
                 while(!queue.isEmpty()){
                     int node = queue.poll();
 
-                    for(int n : adj.get(node)){
-                        if(!visited[n]){
-                            queue.offer(n);
-                            visited[n]=true;
+                    for(int j = 0; j < n; j++){
+                        if(isConnected[node][j]==1 && !visited[j]){
+                            queue.offer(j);
+                            visited[j]=true;
                         }
                     }
                 }
