@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shreyasgshetty/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shreyasgshetty/DSA/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyasgshetty/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/shreyasgshetty/DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shreyasgshetty/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Counting
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shreyasgshetty/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/shreyasgshetty/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyasgshetty/DSA/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/shreyasgshetty/DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/shreyasgshetty/DSA/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/shreyasgshetty/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/shreyasgshetty/DSA/tree/master/0735-asteroid-collision) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/shreyasgshetty/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/shreyasgshetty/DSA/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/shreyasgshetty/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shreyasgshetty/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shreyasgshetty/DSA/tree/master/0994-rotting-oranges) |
 ## Enumeration
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shreyasgshetty/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/shreyasgshetty/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shreyasgshetty/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasgshetty/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/0662-maximum-width-of-binary-tree) |
