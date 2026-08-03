@@ -13,10 +13,8 @@ class Solution {
         int initialcolor = image[sr][sc];
         int n = image.length;
         int m = image[0].length;
-        int[][] visited = new int[n][m];
         Queue<Pair> queue = new LinkedList<>(); 
         queue.offer(new Pair(sr,sc));
-        visited[sr][sc] = color;
         int[] drow = {1,0,-1,0};
         int[] dcol = {0,-1,0,1};
         
@@ -29,9 +27,8 @@ class Solution {
                 int nrow = r + drow[i];
                 int ncol = c + dcol[i];
 
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && visited[nrow][ncol]!=color && image[nrow][ncol]==initialcolor){
+                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && image[nrow][ncol]==initialcolor){
                     queue.offer(new Pair(nrow,ncol));
-                    visited[nrow][ncol]=color;
                 }
             }
         }
