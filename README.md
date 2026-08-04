@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasgshetty/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shreyasgshetty/DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/shreyasgshetty/DSA/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/shreyasgshetty/DSA/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shreyasgshetty/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/shreyasgshetty/DSA/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/shreyasgshetty/DSA/tree/master/0785-is-graph-bipartite) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shreyasgshetty/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/shreyasgshetty/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shreyasgshetty/DSA/tree/master/1020-number-of-enclaves) |
@@ -511,9 +513,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shreyasgshetty/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyasgshetty/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shreyasgshetty/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shreyasgshetty/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/shreyasgshetty/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shreyasgshetty/DSA/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/shreyasgshetty/DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/shreyasgshetty/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/shreyasgshetty/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
