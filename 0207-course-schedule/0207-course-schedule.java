@@ -5,19 +5,12 @@ class Solution {
         for(int i = 0; i < numCourses;i++){
             adj.add(new ArrayList<>());
         }
-
+        int[] indegree = new int[numCourses];
         for(int[] edge : prerequisites){
             adj.get(edge[1]).add(edge[0]);
+            indegree[edge[0]]++;
         }
-
-        int[] indegree = new int[numCourses];
-        for(int i = 0; i < numCourses;i++){
-            for(int it : adj.get(i)){
-                indegree[it]++;
-            }
-        }
-
-
+        
         Queue<Integer> queue = new LinkedList<>();
 
         for(int i = 0; i < numCourses; i++){
