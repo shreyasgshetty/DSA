@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/shreyasgshetty/DSA/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyasgshetty/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shreyasgshetty/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyasgshetty/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/shreyasgshetty/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3731-find-missing-elements](https://github.com/shreyasgshetty/DSA/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
