@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shreyasgshetty/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyasgshetty/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyasgshetty/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/shreyasgshetty/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/shreyasgshetty/DSA/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/shreyasgshetty/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/shreyasgshetty/DSA/tree/master/0455-assign-cookies) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shreyasgshetty/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shreyasgshetty/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/shreyasgshetty/DSA/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/shreyasgshetty/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shreyasgshetty/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shreyasgshetty/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyasgshetty/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreyasgshetty/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/shreyasgshetty/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/shreyasgshetty/DSA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/shreyasgshetty/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/shreyasgshetty/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shreyasgshetty/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/shreyasgshetty/DSA/tree/master/0216-combination-sum-iii) |
