@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shreyasgshetty/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyasgshetty/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyasgshetty/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/shreyasgshetty/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shreyasgshetty/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyasgshetty/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasgshetty/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shreyasgshetty/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/shreyasgshetty/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/shreyasgshetty/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shreyasgshetty/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/shreyasgshetty/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasgshetty/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shreyasgshetty/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasgshetty/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shreyasgshetty/DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyasgshetty/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shreyasgshetty/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreyasgshetty/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/shreyasgshetty/DSA/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/shreyasgshetty/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shreyasgshetty/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shreyasgshetty/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/shreyasgshetty/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/shreyasgshetty/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/shreyasgshetty/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyasgshetty/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/shreyasgshetty/DSA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shreyasgshetty/DSA/tree/master/0204-count-primes) |
@@ -585,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shreyasgshetty/DSA/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shreyasgshetty/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
