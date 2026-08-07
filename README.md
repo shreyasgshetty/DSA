@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shreyasgshetty/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/shreyasgshetty/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/shreyasgshetty/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/shreyasgshetty/DSA/tree/master/0295-find-median-from-data-stream) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyasgshetty/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shreyasgshetty/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shreyasgshetty/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/shreyasgshetty/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/shreyasgshetty/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyasgshetty/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/shreyasgshetty/DSA/tree/master/0148-sort-list) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shreyasgshetty/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shreyasgshetty/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreyasgshetty/DSA/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/shreyasgshetty/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shreyasgshetty/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shreyasgshetty/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shreyasgshetty/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -574,4 +577,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/shreyasgshetty/DSA/tree/master/0802-find-eventual-safe-states) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shreyasgshetty/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shreyasgshetty/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
